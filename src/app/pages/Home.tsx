@@ -50,7 +50,7 @@ export default function Home({ setSelectedIndex }: Props) {
               display="flex"
               justifyContent={{ xs: "center", sm: "flex-start" }}
             >
-              <Typography variant="h5" gutterBottom>
+              <Typography variant="subtitle1" gutterBottom>
                 Work Smart and Hard aswell 😌
               </Typography>
             </Grid>
