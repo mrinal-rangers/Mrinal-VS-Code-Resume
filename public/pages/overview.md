@@ -102,4 +102,4 @@ driven by a profound curiosity for the intricacies of technology and a passion f
 ## Languages
 
 **English**: C1
-**Chinese**: Native
+**Hindi**: Native
