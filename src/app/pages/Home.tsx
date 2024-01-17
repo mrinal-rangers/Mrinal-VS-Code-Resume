@@ -37,7 +37,7 @@ export default function Home({ setSelectedIndex }: Props) {
       <Grid item xs={3}>
         <Stack direction={{ xs: "column", sm: "row-reverse" }} spacing={2}>
           <Box display="flex" sx={{ justifyContent: "center" }}>
-            <img src="https://media.licdn.com/dms/image/D5603AQEIMEDqxh9XrA/profile-displayphoto-shrink_800_800/0/1705313392430?e=1710979200&v=beta&t=tGacVYQmbzU1OBXIgW1BSOUCDLm-6UM5Ow4JM0-GHMY" alt="logo" />
+            <img src="https://media.licdn.com/dms/image/D5603AQEIMEDqxh9XrA/profile-displayphoto-shrink_800_800/0/1705313392430?e=1710979200&v=beta&t=tGacVYQmbzU1OBXIgW1BSOUCDLm-6UM5Ow4JM0-GHMY" width="150px" alt="logo" />
           </Box>
           <Box>
             <Grid
